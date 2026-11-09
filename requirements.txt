@@ -1,0 +1,31 @@
+
+# LLM Integration
+langchain-mistralai
+
+# LangChain Framework
+langchain
+langchain-core
+langchain-community
+langchain-classic
+
+# Agent Framework
+langgraph
+
+# Web Search
+tavily-python
+
+# Web Scraping
+beautifulsoup4
+requests
+lxml
+
+# Environment Variables
+python-dotenv
+
+# Data Processing
+pydantic
+
+# Utilities
+typing-extensions
+rich
+streamlit
